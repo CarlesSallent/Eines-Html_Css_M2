@@ -1,5 +1,7 @@
 h1 {
   color: #00008b;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
   font-size: 2rem;
 }
 
@@ -8,10 +10,35 @@ h2 {
   font-size: 1.3rem;
 }
 
+html {
+  height: 100%;
+  margin: 0;
+}
+
 body {
   text-align: center;
   color: #1f1f1f;
   background: linear-gradient(#bada55, #c0ffee);
-  height: 100vh;
+  flex-direction: column;
+  height: 100%;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+}
+
+p {
+  color: #8b0000;
+  text-align: left;
+  margin-top: 1.8rem;
+}
+
+footer {
+  text-align: center;
+  color: #00008b;
+  margin-top: auto;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 /*# sourceMappingURL=index.4d663569.css.map */

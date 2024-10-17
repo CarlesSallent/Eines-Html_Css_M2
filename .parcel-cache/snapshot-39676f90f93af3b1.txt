@@ -1,4 +1,4 @@
-10287
+10288
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\htmlnano\docs\package-lock.json133735755639621919 0
 130C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133735755625898016 0
 102C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2020\InternalizeJSONProperty.js133735777513104412 0
@@ -8,7 +8,7 @@
 86C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\glob\dist\esm\walker.js.map133735777503143938 0
 91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\typed-array-length\test\index.js133735777497040861 0
 108C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\foreground-child\node_modules\path-key\index.d.ts133735777495174275 0
-50C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist133735858943208629 1
+50C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist133736590346730767 1
 117C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2023\CreateNonEnumerableDataPropertyOrThrow.js133735777507814395 0
 81C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\resolve\test\node_path133735777502882584 1
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\regions\BE.js133735755643372645 0
@@ -26,20 +26,19 @@
 95C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133735755652230297 0
 68C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@trysound133735755600989058 1
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\msgpackr\test-worker.js133735755632615569 0
-73C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.4d663569.css.map133735858942928165 0
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\regions\CH.js133735755650166931 0
 106C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\glob\node_modules\minimatch\dist\esm\index.d.ts133735777503411469 0
 92C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\signal-exit\dist\cjs\index.js.map133735777500571923 0
 112C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\css-select\node_modules\domutils\lib\stringify.js.map133735755642804640 0
 99C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\optimizer-svgo\node_modules\csso133735755639244268 1
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\type-fest\source\promise-value.d.ts133735755631982561 0
+69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.4d663569.css133736590346604368 0
 125C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\glob\node_modules\minimatch\dist\commonjs\brace-expressions.js.map133735777502703616 0
-69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.4d663569.css133735858942812296 0
 95C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\tls1-2.js133735755677508419 0
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\posthtml-parser\dist\index.js133735755615949204 0
 65C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\parcel133735755631203520 1
 75C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\semver\range.bnf133735755616544077 0
-68C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.0641b553.js133735858943137214 0
+68C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.0641b553.js133736590052846676 0
 70C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\graceful-fs133735777496383063 1
 92C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2021\DayWithinYear.js133735777508730684 0
 99C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\selectlist.js133735755675334981 0
@@ -47,7 +46,6 @@
 69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\ansi-regex133735777494972767 1
 74C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\css-what\lib\es133735755631152385 1
 72C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\node-releases133735755616408878 1
-61C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.html133735858943062560 0
 78C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\weak-lru-cache\dist133735755607843560 1
 83C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2021\Type.js133735777526870906 0
 69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\dotenv\lib133735755622942570 1
@@ -79,7 +77,7 @@
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\regions\FR.js133735755665279061 0
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2015\ToBoolean.js133735777524841964 0
 95C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\css-tree\lib\syntax\node\Function.js133735755656672685 0
-72C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.0641b553.js.map133735858943179400 0
+72C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.0641b553.js.map133736590052878593 0
 109C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Raw.cjs133735755651275624 0
 93C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\css-what\lib\es\stringify.d.ts.map133735755623116576 0
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\semver\classes\index.js133735755630837206 0
@@ -108,7 +106,7 @@
 99C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\array-flat.js133735755635923774 0
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\csso\node_modules\css-tree\data133735755661781863 1
 68C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\call-bind133735777498831655 1
-49C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src133735844463429464 1
+49C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src133736570713384085 1
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\resolve\test\module_dir133735777503411469 1
 69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\nullthrows133735755620389796 1
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2023\CanBeHeldWeakly.js133735777505622896 0
@@ -149,6 +147,8 @@
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133735755667451189 0
 77C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\timsort\LICENSE.md133735755614869421 0
 56C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\app.js133735821511979144 0
+90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\BundleGraph.js133735755642261800 0
+53C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\img133736570713384085 1
 100C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2022\TypedArrayElementType.js133735777527447424 0
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\regions\IQ.js133735755668382091 0
 91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\glob\dist\commonjs\walker.js.map133735777503098513 0
@@ -169,7 +169,7 @@
 75C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\stable\stable.js133735755609195748 0
 117C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133735755623076781 0
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2019\GetSubstitution.js133735777511543084 0
-60C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\index.html133735855664876174 0
+60C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\index.html133736584904230299 0
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\supports-color\index.js133735755608520145 0
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\css-fixed.js133735755656199142 0
 85C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map\source-map.d.ts133735755623132981 0
@@ -177,7 +177,7 @@
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2020\Number\multiply.js133735777518117958 0
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\css3-attr.js133735755660656556 0
 129C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133735755649603572 0
-61C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\index2.html133735857568952270 0
+61C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\index2.html133736584730744268 0
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\rimraf\dist\commonjs\fix-eperm.d.ts.map133735777502882584 0
 86C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2022\IsArray.js133735777513442390 0
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\utility-types\dist\utility-types.js.map133735755622888394 0
@@ -202,7 +202,7 @@
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\htmlparser2\lib\Parser.d.ts.map133735755621596082 0
 92C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\type-fest\source\stringified.d.ts133735755634880595 0
 83C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\load-json-file\readme.md133735777496504499 0
-60C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\styles.css133735835640048636 0
+60C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\src\styles.css133736590346201853 0
 85C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\object-inspect\test\has.js133735777500414117 0
 84C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\tslib\CopyrightNotice.txt133735755625059433 0
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map-js\README.md133735755621611217 0
@@ -561,13 +561,6 @@
 103C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\wrap-ansi\node_modules\ansi-styles\readme.md133735777494441106 0
 70C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\signal-exit133735777502156575 1
 67C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\for-each133735777496781039 1
-102C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133735755616694133 0
-98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2022\IsValidIntegerIndex.js133735777515773882 0
-90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\signal-exit\dist\mjs\browser.js133735777493312828 0
-91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\term-size\vendor\macos\.DS_Store133735755615615375 0
-91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\package-json-from-dist\README.md133735777499778756 0
-88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2024\StringPad.js133735777523057305 0
-106C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\wrap-ansi-cjs\node_modules\string-width\license133735777489497438 0
 107C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin133735755608280430 1
 106C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\wrap-ansi\node_modules\ansi-styles\package.json133735777493312828 0
 80C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\js-yaml\lib\schema.js133735755631152385 0
@@ -579,6 +572,13 @@
 114C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133735755663304532 0
 89C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\operations\2022.js133735777500831831 0
 75C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\foreground-child133735777502156575 1
+102C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133735755616694133 0
+98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2022\IsValidIntegerIndex.js133735777515773882 0
+90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\signal-exit\dist\mjs\browser.js133735777493312828 0
+91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\term-size\vendor\macos\.DS_Store133735755615615375 0
+91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\package-json-from-dist\README.md133735777499778756 0
+88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2024\StringPad.js133735777523057305 0
+106C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\wrap-ansi-cjs\node_modules\string-width\license133735777489497438 0
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\function.prototype.name133735777500887008 1
 91C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\regexp.prototype.flags\README.md133735777501440635 0
 86C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\object-inspect\test\deep.js133735777497272176 0
@@ -1584,8 +1584,8 @@
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\weak-lru-cache\dist\index.cjs133735755608162352 0
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\string.prototype.padend\shim.js133735777500106451 0
 82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\resolve\test\pathfilter133735777503447020 1
-85C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\utility-types\CHANGELOG.md133735755623547926 0
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\lz4file.h133735755652004292 0
+85C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\utility-types\CHANGELOG.md133735755623547926 0
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\rimraf\dist\esm\bin.d.mts.map133735777502752124 0
 87C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2023\ToUint32.js133735777526508066 0
 108C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@swc\helpers\cjs\_check_private_redeclaration.cjs133735755656829125 0
@@ -2541,8 +2541,6 @@
 81C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\object-inspect\LICENSE133735777493159822 0
 81C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\spdx-correct\README.md133735777494699242 0
 84C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@swc\helpers\src\_get.mjs133735755666940562 0
-76C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map-js\lib133735755625059433 1
-83C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\rimraf\dist\esm\index.js133735777500076240 0
 127C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator\create.js133735755629497998 0
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\graceful-fs\legacy-streams.js133735777494253832 0
 95C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\regexp.prototype.flags\.editorconfig133735777493422888 0
@@ -2550,6 +2548,8 @@
 99C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@swc\helpers\_\_ts_decorate\package.json133735755654564558 0
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\es-abstract\2022\BigInt\multiply.js133735777518178360 0
 74C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\semver\internal133735755636876551 1
+83C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\rimraf\dist\esm\index.js133735777500076240 0
+76C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map-js\lib133735755625059433 1
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map-js\source-map.d.ts133735755624559469 0
 95C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\is-shared-array-buffer\test\index.js133735777495300718 0
 89C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\source-map-js\lib\array-set.js133735755608320543 0
@@ -4371,8 +4371,8 @@
 94C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\README.md133735755654959263 0
 93C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133735755648754988 0
 111C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133735755630045846 0
-82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\is-string\test\index.js133735777495968620 0
 107C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@swc\helpers\cjs\_apply_decorated_descriptor.cjs133735755656138112 0
+82C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\is-string\test\index.js133735777495968620 0
 99C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133735755650717705 0
 118C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133735755655809361 0
 106C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133735755654857498 0
@@ -10096,7 +10096,6 @@
 113C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\test\fixtures\common-targets\package.json133735755658251094 0
 89C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\assetUtils.js133735755639026902 0
 89C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\buildCache.js133735755639556802 0
-90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\BundleGraph.js133735755642261800 0
 88C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\constants.js133735755645544210 0
 98C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133735755648122189 0
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\@parcel\core\src\Environment.js133735755648754988 0
@@ -10286,3 +10285,5 @@
 90C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\.bin\update-browserslist-db.cmd133735755697899765 0
 69C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\.bin\which133735777529854365 0
 73C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\node_modules\.bin\which.cmd133735777529854365 0
+61C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.html133736590049756175 0
+73C:\Users\Carles Sallent\5-Eines-HTML-i-CSS\m2\dist\index.4d663569.css.map133736590346710173 0
